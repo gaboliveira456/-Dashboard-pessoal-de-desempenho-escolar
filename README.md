@@ -10,7 +10,6 @@ Projeto pessoal de visualização de dados para acompanhar a evolução das nota
 - KPIs principais: média geral, melhor ano, evolução anual
 - Gráfico de evolução das médias por ano
 - Gráfico de metas anuais
-- Resumo de matérias / insights
 - Gráfico de barras empilhadas por matérias
 
 ## Resultado
